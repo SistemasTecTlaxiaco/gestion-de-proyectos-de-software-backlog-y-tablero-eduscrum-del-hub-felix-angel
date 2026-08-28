@@ -24,7 +24,7 @@
 ## Aceptación del equipo
 Cada integrante confirma haber leído y aceptado este acuerdo con su commit correspondiente.
 
-- [ ] Diego Fidel Sosa Cruz
+- [ ] Diego Fidel Sonsa Cruz
 - [ ] [Nombre 2]
 - [ ] [Nombre 3]
 - [ ] [Nombre 4]
