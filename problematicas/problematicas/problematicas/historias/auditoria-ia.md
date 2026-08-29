@@ -11,7 +11,7 @@ Audita las siguientes historias de usuario y para cada una indica:
 4. Si existe ambigüedad de alcance (si se puede interpretar de más de una forma).
 5. Sugiere una versión corregida de la historia si encuentras problemas.
 
-Historias a auditar: [las 13 historias de las problemáticas 1 - Miel, 2 - Mercado y 3 - Mezcal]
+
 
 ## Hallazgos de la IA
 
